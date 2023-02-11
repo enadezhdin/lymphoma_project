@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1652208809614.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3714834555",
+    "id" : "AB191C5F",
+    "lastKnownWriteTime" : 1652276560,
+    "last_content_update" : 1652276560653,
+    "path" : "~/projects/data_transfer/lymphoma_project/Lymphoma_script_combined.R",
+    "project_path" : "Lymphoma_script_combined.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

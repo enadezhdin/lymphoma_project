@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/data_transfer/lymphoma_project",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
