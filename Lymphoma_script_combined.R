@@ -1,5 +1,5 @@
-###combined script for Lymphoma project
-## author: E. Nadezhdin. en282@cam.ac.uk
+###combined R workflow for Lymphoma project
+## author: Dr. E. Nadezhdin (en282@cantab.ac.uk)
 
 library(tidyverse)
 library(xtable)
